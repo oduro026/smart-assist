@@ -89,7 +89,7 @@ const Profile = () => {
       window.removeEventListener('storage', handleStorageChange);
       clearInterval(interval);
     };
-  }, []);
+  }, [API_URL]);
 
   //  Get performance status based on GPA
   const getPerformanceStatus = () => {
