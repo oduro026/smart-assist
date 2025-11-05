@@ -1,0 +1,9 @@
+.css-nav-link {
+  text-decoration: none;
+
+}
+
+.css-nav-link:hover {
+  color: rgb(22, 192, 22);
+  transition: color 0.5s;
+}
