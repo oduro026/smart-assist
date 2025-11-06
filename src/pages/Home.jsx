@@ -44,11 +44,10 @@ const HomePage = () => {
         <div className="row g-4 justify-content-center">
           <div className="col-md-4">
             <div className="card border-0 shadow-sm h-100 text-center p-4">
-              <div className="mb-3 fs-2 text-primary">📖</div>
-              <h5 className="fw-bold">Learning Materials</h5>
+              <div className="mb-3 fs-2 text-primary">🤖</div>
+              <h5 className="fw-bold">AI Assistance</h5>
               <p className="text-muted">
-                Upload, organize, and access all your study materials in one
-                centralized location.
+                Get instant answers to your questions concerning Campus ICT services with our AI-powered chatbot.
               </p>
             </div>
           </div>
