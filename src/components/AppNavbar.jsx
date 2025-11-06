@@ -13,7 +13,7 @@ function AppNavbar() {
         
         <Navbar.Brand href="/" className="d-flex align-items-center fw-bold text-dark">
           <Book className="me-2 fs-4" />
-          SmartStudent
+          SmartAssist
         </Navbar.Brand>
 
         

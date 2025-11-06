@@ -9,7 +9,7 @@ const HomePage = () => {
       <nav className="navbar navbar-expand-lg navbar-light bg-white shadow-sm py-3 px-4">
         <div className="container-fluid">
           <Link className="navbar-brand fw-bold text-primary" to="/">
-            📘 SmartStudent
+            📘 SmartAssist
           </Link>
           <div className="d-flex ms-auto">
             <Link to="/login" className="btn btn-outline-primary me-2">
